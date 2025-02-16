@@ -1,2 +1,5 @@
 # DICTIONARY-
 PYTHON PROGRAMMING 
+
+VIDEO OF THE DATE TYPES GUIDE
+https://youtube.com/shorts/Z5z942TC-0c?si=gumg0UMfhCPspRgy
